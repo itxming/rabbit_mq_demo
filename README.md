@@ -36,5 +36,5 @@
 访问及配置
 访问RabbitMQ管理页面地址，查看是否安装成功（Linux下使用服务器IP访问即可）：
 http://localhost:15672/
-
+ 
 输入账号密码并登录，这里使用默认账号密码登录：guest guest
